@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Livraria</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="label_id">ID: </string>
+    <string name="label_titulo">Titulo: </string>
+    <string name="label_autor">Autor: </string>
+    <string name="label_categoria">Categoria: </string>
+</resources>
